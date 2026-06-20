@@ -1,0 +1,20 @@
+# Robot Framework - core
+robotframework==7.2.2
+
+# RPA Framework - automação desktop Windows, browser, imagem
+rpaframework==32.0.0
+
+# Selenium Library - automação web
+robotframework-seleniumlibrary==6.9.0
+
+# Appium Library - apps nativos via WinAppDriver/Appium
+robotframework-appiumlibrary==2.1.0
+
+# Suporte a bibliotecas customizadas
+robotframework-pythonlibcore==4.4.1
+
+# Automação de mouse/teclado e captura de tela
+pyautogui==0.9.54
+Pillow==11.2.1
+pyperclip==1.11.0
+selenium>=4.6.0
