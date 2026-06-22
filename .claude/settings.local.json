@@ -1,0 +1,7 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(Get-Content \"C:\\\\Users\\\\oscar\\\\AppData\\\\Local\\\\Temp\\\\claude\\\\C--Projetos-auto-corte\\\\449ab8ae-41e2-4106-a551-533fd59aef6a\\\\tasks\\\\bq8mw2y6l.output\" -Wait)"
+    ]
+  }
+}
